@@ -1,7 +1,7 @@
 End-User License Agreement (EULA) for CallTrail
 
 1. License Grant
-The Developer grants you a personal, non-transferable, non-exclusive, and free-of-charge license to download the Plugin from the official JetBrains Marketplace listing for CallTrail or from the official CallTrail GitHub Releases page at https://github.com/0xZZSheep/CallTrail-Releases/releases, and to install and use the Plugin within JetBrains IDEs for both personal and commercial purposes.
+The Developer grants you a personal, non-transferable, non-exclusive, and free-of-charge license to download the Plugin from the official JetBrains Marketplace listing for CallTrail or from the official CallTrail GitHub Releases page at https://github.com/0xZZSheep/CallTrail-intellij-plugin/releases, and to install and use the Plugin within JetBrains IDEs for both personal and commercial purposes.
 
 These are the only official distribution channels for the Plugin.
 
